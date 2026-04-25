@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png" width="80px" />
+<img src="https://img.icons8.com/color/96/microsoft-office-2019.png" width="80px" />
 
 # Office Installer
 
